@@ -1,6 +1,6 @@
 ### Hello World! Nice to meet you, my name is Valentim 👋
 
-- 🔭 Estágiario
+- 🔭 Estagiário
 - 🌱 Estou aprendendo: PHP, SQL, Lua, Python e Javascript
 - 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS
 - ⚡ Curiosidade: Gosto de desenvolver jogos
