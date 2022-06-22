@@ -1,4 +1,4 @@
-### Hello World! Nice to meet you, my name is Valentim 👋
+### Hello World! 👋
 
 - 🔭 Estagiário
 - 🌱 Estou aprendendo: PHP, SQL, Lua, Python e Javascript
