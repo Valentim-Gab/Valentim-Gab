@@ -1,10 +1,12 @@
 ### Hello World! 👋
 
-```diff @@ 
+```diff
+@@ 
 🔭 Estagiário, desenvolvendo em Delphi
 🌱 Estou aprendendo: TypeScript, NodeJS, NestJS, NextJS e React
 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS
-⚡ Curiosidade: Gosto de desenvolver jogos @@
+⚡ Curiosidade: Gosto de desenvolver jogos
+@@
 ```
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
