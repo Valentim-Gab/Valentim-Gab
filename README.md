@@ -22,6 +22,7 @@
   <img align="center" alt="Valentim-Delphi" height="40" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png">
   <img align="center" alt="Valentim-MySQL" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Valentim-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Valentim-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
 </div>
 
