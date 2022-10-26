@@ -1,9 +1,9 @@
 ### Hello World! 👋
 
-- 🔭 Estagiário
-- 🌱 Estou aprendendo: PHP, SQL, Lua, Python e Javascript
-- 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS
-- ⚡ Curiosidade: Gosto de desenvolver jogos
+<p style="color: #d68cff">- 🔭 Estagiário, desenvolvendo em Delphi</p>
+<p style="color: #d68cff">- 🌱 Estou aprendendo: TypeScript, NodeJS, NestJS, NextJS e React</p>
+<p style="color: #d68cff">- 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS</p>
+<p style="color: #d68cff">- ⚡ Curiosidade: Gosto de desenvolver jogos</p>
 
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
