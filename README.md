@@ -1,10 +1,11 @@
 ### Hello World! 👋
 
-<p style="color: #d68cff">- 🔭 Estagiário, desenvolvendo em Delphi</p>
-<p style="color: #d68cff">- 🌱 Estou aprendendo: TypeScript, NodeJS, NestJS, NextJS e React</p>
-<p style="color: #d68cff">- 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS</p>
-<p style="color: #d68cff">- ⚡ Curiosidade: Gosto de desenvolver jogos</p>
-
+```diff
+<p style="color: #d68cff">@@- 🔭 Estagiário, desenvolvendo em Delphi@@</p>
+<p style="color: #d68cff">@@- 🌱 Estou aprendendo: TypeScript, NodeJS, NestJS, NextJS e React@@</p>
+<p style="color: #d68cff">@@- 🤔 Estou procurando ajuda com frameworks e bibliotecas de JS@@</p>
+<p style="color: #d68cff">@@- ⚡ Curiosidade: Gosto de desenvolver jogos@@</p>
+```
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentim-Gab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
