@@ -6,12 +6,11 @@
 @@  🤔 Estou procurando ajuda com frameworks e bibliotecas de JS  @@
 @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
 ```
-
+<img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-Gab&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
           
 <div style="display: inline_block"><br>
   <img align="center" alt="Valentim-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
