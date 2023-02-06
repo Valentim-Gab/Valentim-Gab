@@ -10,6 +10,7 @@
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-Gab&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
 </div>
           
 <div style="display: inline_block"><br>
@@ -25,8 +26,6 @@
   <img align="center" alt="Valentim-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Valentim-MySQL" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Valentim-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-  <img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
 </div>
 
   ##
