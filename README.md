@@ -2,6 +2,7 @@
 
 ```diff
 @@  🔭 Estagiário, desenvolvendo em Delphi  @@
+@@  💻 Freelancer, desenvolvendo em Angular  @@
 @@  🌱 Estou aprendendo: TypeScript, NodeJS, NestJS, NextJS e React  @@
 @@  🤔 Estou procurando ajuda com frameworks e bibliotecas de JS  @@
 @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
