@@ -18,7 +18,7 @@
   <img align="center" alt="Valentim-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Valentim-Delphi" height="40" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png">
   <img align="center" alt="Valentim-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Valentim-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Valentim-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Valentim-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Valentim-Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Valentim-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
