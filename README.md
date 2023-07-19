@@ -32,7 +32,7 @@
 
 <br clear="both" />
 
-<img align="right" alt="Valentim-Kenny-Steam-pic" width="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
+<img align="right" alt="Valentim-Kenny-Steam-pic" width="50" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
   
 <div align="center">
   <a href="https://bit.ly/3uDxit5" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -42,11 +42,11 @@
   <a href = "mailto:gabrielvalentimxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-valentim-xavier-de-arruda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
+  <br />
+
   <div align="center">
     <img src="https://profile-counter.glitch.me/Valentim-Gab/count.svg?"  />
   </div>
-
-  <br />
   
   ![Snake animation](https://github.com/Valentim-Gab/Valentim-Gab/blob/output/github-contribution-grid-snake.svg)
 </div>
