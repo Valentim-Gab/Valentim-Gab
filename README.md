@@ -1,4 +1,4 @@
-## Welcome to my github
+## 👋 Welcome to my github
 
 ```diff
   🔭 Estagiário, desenvolvendo em Delphi
