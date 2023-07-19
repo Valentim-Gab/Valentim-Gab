@@ -30,6 +30,8 @@
   <img align="center" alt="Valentim-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
+<br clear="both" />
+
 <img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
   
 <div align="center">
