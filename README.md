@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-Gab&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
           
-<div style="display: flex; gap: 10px;" align="center"><br>
+<div style="display: flex; gap: 10em;" align="center"><br>
   <img align="center" alt="Valentim-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Valentim-Delphi" height="40" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png">
   <img align="center" alt="Valentim-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
