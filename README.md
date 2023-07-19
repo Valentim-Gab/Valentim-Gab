@@ -39,6 +39,8 @@
   <a href="https://www.linkedin.com/in/gabriel-valentim-xavier-de-arruda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   ![Snake animation](https://github.com/Valentim-Gab/Valentim-Gab/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-  <img src="https://raw.githubusercontent.com/Valentim-Gab/Valentim-Gab/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Valentim-Gab/count.svg?"  />
 </div>
