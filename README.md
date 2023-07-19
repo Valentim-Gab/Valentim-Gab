@@ -44,13 +44,13 @@
   <a href="https://www.linkedin.com/in/gabriel-valentim-xavier-de-arruda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<br />
+#
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Valentim-Gab/count.svg?"  />
 </div>
 
-<br />
+#
 
 <div align="center">
 
