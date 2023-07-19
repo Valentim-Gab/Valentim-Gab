@@ -1,7 +1,7 @@
 ```diff
   ## 🔭 Estagiário, desenvolvendo em Delphi @@
   @@ 💻 Freelancer, desenvolvendo em Angular @@
-  ! ⚡ Curiosidade: Gosto de desenvolver jogos @@
+  !⚡ Curiosidade: Gosto de desenvolver jogos @@
 ```
 
 <div align="center">
