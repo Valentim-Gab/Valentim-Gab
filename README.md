@@ -1,4 +1,4 @@
-<font size="5" color="purple">
+<font size="100" color="purple">
 
   ```diff
     🔭 Estagiário, desenvolvendo em Delphi 
