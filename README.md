@@ -1,10 +1,11 @@
-```diff
-  <span style="font-size: 1.5em; color: purple;">
-    @@  🔭 Estagiário, desenvolvendo em Delphi  @@
-    @@  💻 Freelancer, desenvolvendo em Angular  @@
-    @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
-  </span>
-```
+<font size="5" color="purple">
+
+  ```diff
+    🔭 Estagiário, desenvolvendo em Delphi 
+    💻 Freelancer, desenvolvendo em Angular 
+    ⚡ Curiosidade: Gosto de desenvolver jogos
+  ```
+</font>
 
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
