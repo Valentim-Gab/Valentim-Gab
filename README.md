@@ -1,7 +1,9 @@
 ```diff
-  @@  🔭 Estagiário, desenvolvendo em Delphi  @@
-  @@  💻 Freelancer, desenvolvendo em Angular  @@
-  @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
+  <span style="font-size: 1.5em; color: purple;">
+    @@  🔭 Estagiário, desenvolvendo em Delphi  @@
+    @@  💻 Freelancer, desenvolvendo em Angular  @@
+    @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
+  </span>
 ```
 
 <div align="center">
