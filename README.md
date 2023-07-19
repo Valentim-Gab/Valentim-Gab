@@ -50,7 +50,7 @@
   <img src="https://profile-counter.glitch.me/Valentim-Gab/count.svg?"  />
 </div>
 
-#
+<br />
 
 <div align="center">
 
