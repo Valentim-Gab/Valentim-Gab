@@ -1,8 +1,4 @@
-<img align="right" alt="Valentim-Kenny-Steam-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
-
-<div align="left">
-  <br />
-</div>
+<img style="margin-left: 20px" align="right" alt="Valentim-Kenny-Steam-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
 
 ```diff
   @@  🔭 Estagiário, desenvolvendo em Delphi  @@
