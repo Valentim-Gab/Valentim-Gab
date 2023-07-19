@@ -1,12 +1,14 @@
+<img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
+
 <div align="left">
-  ```diff
-    @@  🔭 Estagiário, desenvolvendo em Delphi  @@
-    @@  💻 Freelancer, desenvolvendo em Angular  @@
-    @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
-  ```
+  <br />
 </div>
 
-<img align="right" alt="Valentim-Kenny-Steam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/606238064645505026/966788502056480828/KennySteam.gif">
+```diff
+  @@  🔭 Estagiário, desenvolvendo em Delphi  @@
+  @@  💻 Freelancer, desenvolvendo em Angular  @@
+  @@  ⚡ Curiosidade: Gosto de desenvolver jogos  @@
+```
 
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
