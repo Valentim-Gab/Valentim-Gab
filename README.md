@@ -1,11 +1,10 @@
-<font size="100" color="purple">
-
+@@
   ```diff
     🔭 Estagiário, desenvolvendo em Delphi 
     💻 Freelancer, desenvolvendo em Angular 
     ⚡ Curiosidade: Gosto de desenvolver jogos
   ```
-</font>
+@@
 
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
