@@ -1,9 +1,9 @@
 ```diff
   ## 🔭 Estagiário, desenvolvendo em Delphi @@
   @@ 💻 Freelancer, desenvolvendo em Angular @@
-  
+  ! ⚡ Curiosidade: Gosto de desenvolver jogos @@
 ```
-@@ ⚡ Curiosidade: Gosto de desenvolver jogos @@
+
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentim-Gab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
