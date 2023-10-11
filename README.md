@@ -1,6 +1,9 @@
-## 👋 Welcome to my github
-
-<a href="https://valentim-gab-portfolio.vercel.app" target="_blank">Portfólio</a>
+<div style="display: flex; justify-content: space-between">
+  ## 👋 Welcome to my github
+  <a href="https://valentim-gab-portfolio.vercel.app" target="_blank">
+    Visite meu Site/Portfólio
+  </a>
+</div>
 
 ```diff
   🔭 Estagiário, desenvolvendo em Delphi
@@ -10,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Valentim-Gab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentim-Gab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-Gab&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentim-Gab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-Gab&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
 
 #
