@@ -1,9 +1,8 @@
-<div style="display: flex; justify-content: space-between">
-  ## 👋 Welcome to my github
-  <a href="https://valentim-gab-portfolio.vercel.app" target="_blank">
-    Visite meu Site/Portfólio
-  </a>
-</div>
+## 👋 Welcome to my github
+
+<a href="https://valentim-gab-portfolio.vercel.app" target="_blank">
+  Visite meu Site/Portfólio
+</a>
 
 ```diff
   🔭 Estagiário, desenvolvendo em Delphi
@@ -60,9 +59,9 @@
   <img src="https://profile-counter.glitch.me/Valentim-Gab/count.svg?"  />
 </div>
 
-#
+<!-- #
 
 <div align="center">
 
   ![Snake animation](https://github.com/Valentim-Gab/Valentim-Gab/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> -->
