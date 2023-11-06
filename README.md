@@ -6,7 +6,7 @@
   ⚡ Curiosidade: Gosto de desenvolver jogos
 ```
 
-<a href="https://valentim-gab-portfolio.vercel.app" target="_blank">
+<a href="https://valentim.tech" target="_blank">
   Visite meu Site/Portfólio
 </a>
 
