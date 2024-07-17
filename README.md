@@ -33,7 +33,7 @@
   <img align="center" alt="Valentim-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Valentim-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Valentim-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Valentim-Kenny-Steam-pic" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1198076033484722178/1254169524257951801/KennyXL.gif?ex=667883e3&is=66773263&hm=ab8ece18fee3f3df3aec433a92f82fe1f88cb4aa7b237f6aff30689741298bc4&">
+  <img align="right" alt="Valentim-Kenny-Steam-pic" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1254951733705183283/1263242120043434175/KennyXL.gif?ex=66998567&is=669833e7&hm=c9e3e2f48941b7d259756791dfb7bd86562bb86d8c22a21a86525f6e95901717&">
   <br /><br />
   <img align="center" alt="Valentim-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Valentim-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
