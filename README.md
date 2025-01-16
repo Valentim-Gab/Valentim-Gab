@@ -31,7 +31,7 @@
   <img align="center" alt="Valentim-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Valentim-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Valentim-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Valentim-Kenny-Steam-pic" width="150" style="border-radius:50px;" src="https://files.valentim.software/kenny/Kenny-Steam.gif">
+  <img align="right" alt="Valentim-Kenny-Steam-pic" width="140" style="border-radius:50px;" src="https://files.valentim.software/kenny/Kenny-Steam.gif">
   <br /><br />
   <img align="center" alt="Valentim-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Valentim-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
