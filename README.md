@@ -1,8 +1,8 @@
 ## 👋 Welcome to my github
 
 ```diff
-  🔭 Analista de Desenvolvimento de Sistemas: desenvolvendo em Delphi e Vue.js
-  💻 Professor de Design Mobile: utilizando Canva e Figma
+  🔭 Desenvolvedor
+  💻 Ex Professor de Design Mobile
   ⚡ Curiosidade: Gosto de desenvolver jogos
 ```
 
