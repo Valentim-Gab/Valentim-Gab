@@ -54,6 +54,7 @@ Gosto de me aprofundar em conhecimentos de Next.js, React, Vue.js e Node.js.
   <a href="https://www.linkedin.com/in/valentim-gab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<!-- #
 <br />
 
 <div align="center">
