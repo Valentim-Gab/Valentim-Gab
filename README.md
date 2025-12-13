@@ -1,10 +1,8 @@
-## 👋 Welcome to my github
+## 👋 Hi there
 
-```diff
-  🔭 Desenvolvedor
-  💻 Ex Professor de Design Mobile
-  ⚡ Curiosidade: Gosto de desenvolver jogos
-```
+Meu nome é Valentim e sou um desenvolvedor FullStack com foco em Frontend.
+
+Gosto de me aprofundar em conhecimentos de Next.js, React, Vue.js e Node.js.
 
 <a href="https://valentim.software" target="_blank">
   Visite meu Site/Portfólio
